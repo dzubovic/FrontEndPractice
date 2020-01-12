@@ -1,3 +1,3 @@
 # FrontEndPractice
-Just project for practice. 
+Project No 1
 Web portfolio site 
